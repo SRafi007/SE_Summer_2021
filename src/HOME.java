@@ -124,7 +124,7 @@ public class HOME extends JFrame {
 		contentPane.add(panel_4);
 		panel_4.setLayout(null);
 		
-		JLabel lblNewLabel_3 = new JLabel("SELL");
+		JLabel lblNewLabel_3 = new JLabel("SELL ");
 		lblNewLabel_3.setFont(new Font("Tahoma", Font.BOLD | Font.ITALIC, 44));
 		lblNewLabel_3.setForeground(new Color(0, 128, 128));
 		lblNewLabel_3.setBounds(183, 11, 265, 60);
